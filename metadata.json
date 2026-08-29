@@ -1,0 +1,6 @@
+{
+  "name": "OpenSpace Cinema",
+  "description": "AI-powered management and customer platform for open-air movie theatre experiences under the stars.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
